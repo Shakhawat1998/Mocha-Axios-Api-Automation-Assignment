@@ -1,0 +1,68 @@
+[
+  {
+    "id": 26371,
+    "name": "Customer1 Vickie",
+    "email": "Camille_Rolfson@hotmail.com",
+    "password": "1234",
+    "phone_number": "01625714929",
+    "nid": "123456789",
+    "role": "Customer",
+    "updatedAt": "2024-11-05T19:40:10.929Z",
+    "createdAt": "2024-11-05T19:40:10.929Z"
+  },
+  {
+    "id": 26372,
+    "name": "Customer2 Mabel",
+    "email": "Araceli.OHara6@yahoo.com",
+    "password": "1234",
+    "phone_number": "01625366558",
+    "nid": "123456789",
+    "role": "Customer",
+    "updatedAt": "2024-11-05T19:40:10.976Z",
+    "createdAt": "2024-11-05T19:40:10.976Z"
+  },
+  {
+    "id": 26373,
+    "name": "Agent1 Danielle",
+    "email": "Sidney64@yahoo.com",
+    "password": "1234",
+    "phone_number": "01625565379",
+    "nid": "123456789",
+    "role": "Agent",
+    "updatedAt": "2024-11-05T19:40:11.022Z",
+    "createdAt": "2024-11-05T19:40:11.022Z"
+  },
+  {
+    "id": 26375,
+    "name": "Customer1 Giovanny",
+    "email": "Stan_Koss37@hotmail.com",
+    "password": "1234",
+    "phone_number": "01625827833",
+    "nid": "123456789",
+    "role": "Customer",
+    "updatedAt": "2024-11-05T19:53:12.160Z",
+    "createdAt": "2024-11-05T19:53:12.160Z"
+  },
+  {
+    "id": 26376,
+    "name": "Customer2 Lester",
+    "email": "Domingo11@gmail.com",
+    "password": "1234",
+    "phone_number": "01625779947",
+    "nid": "123456789",
+    "role": "Customer",
+    "updatedAt": "2024-11-05T19:53:12.246Z",
+    "createdAt": "2024-11-05T19:53:12.246Z"
+  },
+  {
+    "id": 26377,
+    "name": "Agent1 Jed",
+    "email": "Retha.Von@gmail.com",
+    "password": "1234",
+    "phone_number": "01625942489",
+    "nid": "123456789",
+    "role": "Agent",
+    "updatedAt": "2024-11-05T19:53:12.294Z",
+    "createdAt": "2024-11-05T19:53:12.294Z"
+  }
+]
